@@ -42,7 +42,7 @@ The **AI-Powered Face Aging App** is a deep learning-based application that pred
 3. Upload an image and process it using the provided cells.
 
 ## 👥 Contributors
-- **Your Name** ([@shwethashaji-ai](https://github.com/shwethashaji-ai))
+- Shwetha Shaji ([@shwethashaji-ai](https://github.com/shwethashaji-ai))
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
